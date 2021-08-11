@@ -1,3 +1,5 @@
+This app tracks the number of Cases recorded in each and every region around the globe,showing the specific amount of (Cases,Recovered and Deaths),data that frequently gets updated.One interesting functionality of the App is that it icludes a line graph chart illustrating the constant changes,in addition the user can select a specific region and get informed about the data there.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
